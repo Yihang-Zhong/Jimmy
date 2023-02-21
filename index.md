@@ -1,7 +1,2 @@
 #Jimmy
 >Typological Syntax
-
->!
-
-
-
